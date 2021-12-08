@@ -28,4 +28,4 @@ resource "aws_instance" "us-east-1" {
     Name = "Ec2 us-east-1 instance created by terraform"
   }
 }
-
+:wq
